@@ -1,0 +1,131 @@
+
+@media(min-width: 1px){
+body {
+	min-height: 100vh;
+background-image: url('https://unsplash.it/g/1920/1050?random');
+
+background-repeat: no-repeat;
+background-size: cover;
+background-position: 50%;
+
+}
+.login-form {
+	margin-top: 42vh;
+	}
+}
+
+@media(min-width: 320px){
+.login-form {
+	margin-top: 50vh;
+	}
+}
+
+@media(min-width: 375px){
+.login-form {
+	margin-top: 50vh;
+	}
+}
+
+@media(min-width: 414px){
+
+.login-form {
+	margin-top: 50vh;
+	}
+}
+
+
+
+@media(min-width: 568px){
+	.login-form { 
+		margin-top: 23vh;
+		width: 50%;
+		margin-left: 25%;		
+	}
+
+}
+
+@media(min-width: 667px){
+	.login-form { 
+		margin-top: 27vh;
+		width: 50%;
+		margin-left: 25%;		
+	}
+
+}
+
+
+@media(min-width: 736px){
+	.login-form { 
+		margin-top: 28vh;
+		width: 50%;
+		margin-left: 25%;		
+	}
+
+}
+
+@media(min-width: 768px){
+	.login-form { 
+		margin-top: 39vh;
+		width: 50%;
+		margin-left: 25%;		
+	}
+
+}
+
+@media(min-width: 1024px){
+	.login-form { 
+		margin-top: 39vh;
+		width: 50%;
+		margin-left: 25%;		
+	}
+
+}
+
+@media(min-width: 1280px){
+	.login-form { 
+		margin-top: 39vh;
+		width: 30%;
+		margin-left: 35%;		
+	}
+
+}
+
+@media(min-width: 1366px){
+body {
+	min-height: 100vh;
+
+		background-image: url('https://unsplash.it/g/1920/1050?random');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-size: 100%;
+	
+
+}
+	.login-form {
+		margin-top: 39vh;
+		width: 30%;
+		margin-left: 35%;
+	}
+
+}
+
+.login-form {
+
+	padding: 20px 15px;
+	background-color: #36648B;
+	background-color: rgba(139, 134, 130, .9);
+	color: #FFF;
+
+	transform: translateY(-18%);
+}
+
+.login-form h1{
+	margin: 0 0 5px;
+}
+
+.login-form h2{
+	margin: 0 0 20px;
+	font-size: 1em;
+
+}
+
